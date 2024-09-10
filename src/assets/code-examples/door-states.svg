@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="269.90506mm"
+   height="68.725754mm"
+   viewBox="0 0 269.90506 68.725754"
+   version="1.1"
+   id="svg45119"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs45116" />
+  <g
+     id="layer1"
+     transform="translate(9.7492993,157.24919)">
+    <circle
+       style="fill:#3e3d3a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path47046"
+       cx="23.623253"
+       cy="-121.89599"
+       r="33.072552" />
+    <circle
+       style="fill:#3e3d3a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle47169"
+       cx="226.78322"
+       cy="-121.89599"
+       r="33.072552" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 72.287151,-113.86408 H 180.00918 l -9.4493,-5.66958 v 13.70149"
+       id="path47171" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Acme;-inkscape-font-specification:Acme;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       x="95.674171"
+       y="-96.382874"
+       id="text47227"><tspan
+         id="tspan47225"
+         style="fill:#000000;stroke-width:0.6"
+         x="95.674171"
+         y="-96.382874">Enter code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Acme;-inkscape-font-specification:Acme;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       x="8.2681379"
+       y="-120.24236"
+       id="text47231"><tspan
+         id="tspan47229"
+         style="fill:#000000;stroke-width:0.6"
+         x="8.2681379"
+         y="-120.24236">Closed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Acme;-inkscape-font-specification:Acme;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       x="214.26289"
+       y="-118.82496"
+       id="text47235"><tspan
+         id="tspan47233"
+         style="fill:#000000;stroke-width:0.6"
+         x="214.26289"
+         y="-118.82496">Open</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 178.11932,-137.34488 H 70.397291 l 9.4493,-5.66958 v 13.70149"
+       id="path47600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Acme;-inkscape-font-specification:Acme;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-opacity:1;paint-order:fill markers stroke"
+       x="99.845985"
+       y="-148.21158"
+       id="text47604"><tspan
+         id="tspan47602"
+         style="fill:#000000;stroke-width:0.6"
+         x="99.845985"
+         y="-148.21158">Close door</tspan></text>
+  </g>
+</svg>

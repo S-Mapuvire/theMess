@@ -1,0 +1,22 @@
+/* width of this screen ~1865px */
+
+html{ padding: 5px; }
+.darkTheme{ background-color: #1a0e19; }
+.lightTheme{ background-color: #ce78a9; }
+
+.lightTheme a{
+  color: #eb6699;
+  font-weight: 800;
+
+  &:visited{
+    color: #eb6699;
+    font-weight: 800;
+  }
+  &:hover{ color: #f7c0d5; }
+}
+
+.darkTheme a {
+  color: white;
+  
+  &:visited { color: white; }
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="165.10001mm"
+   height="148.16667mm"
+   viewBox="0 0 165.10001 148.16667"
+   version="1.1"
+   id="svg94293"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon-maker.svg"
+   inkscape:export-filename="theme-arrow.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview94295"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.28000308"
+     inkscape:cx="69.642092"
+     inkscape:cy="662.49272"
+     inkscape:window-width="1113"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid94468" />
+  </sodipodi:namedview>
+  <defs
+     id="defs94290" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-50.799998)">
+    <path
+       style="fill:#f7e9f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;paint-order:fill markers stroke"
+       d="M 165.1,148.16667 H 59.26667 l 42.33333,50.8 H 63.5 L 0,127 67.733335,50.8 H 101.6 L 59.26667,105.83334 H 165.1 Z"
+       id="path94470"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

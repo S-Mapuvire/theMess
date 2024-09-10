@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    font-family: 'Comfortaa';
+    font-weight: normal;
+    font-size: 16px;
+  
+    line-height: 1.6;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  html, body{
+    /* width: 100%; */
+    /* height: 100%; */
+  }
+  ol, ul {
+    list-style: none;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  button{
+    border: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  /*
+  // unused button
+  // box-shadow: inset 10px 10px 10px hsla(327, 77%, 84%), 
+  // inset 10px -10px 10px hsla(327, 77%, 84%),
+  // inset -10px 10px 10px hsla(327, 77%, 84%),
+  // inset -10px -10px 10px hsla(327, 77%, 84%),
+  // inset 0 1px 3px hsl(326, 47%, 54%),
+  // inset 0 -10px 4px hsl(326, 47%, 84%),
+  // inset 0 -20px 6px hsl(326, 47%, 80%),
+  // inset 0 0 3px hsl(200, 47%, 80%),
+  // inset 0 10px 4px hsl(0, 52%, 60%),
+  // inset 0 20px 6px hsla(310, 71%, 81%),
+  // inset 0 80px 100px hsla(0, 48%, 89%);*/
