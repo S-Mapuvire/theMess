@@ -23,7 +23,7 @@
 </template>
 
 <script setup>
-import PhotoItem from '@/components/PhotoView/PhotoItem.vue'
+// import PhotosItem from '@/components/PhotoView/PhotoItem.vue'
 import { onMounted, onBeforeMount } from 'vue'
 
 const pth = '\\src\\assets\\DrawingView\\';
