@@ -1,11 +1,12 @@
 <!-- make it run off mongodb -->
 <template>
-    <button>tets</button>
-    <div id="page">
+    <p style="background-color: crimson; z-index: 10; width: 700px;">This page is a work in progress - still need to make the photo holder components create themselves dynamically, then integrate a database system then move the images to an image serving api backend</p>
+    <!-- <button>tets</button>
+    <div id="page"> -->
         <!-- <PhotoItem :imagePath="imagePath" :altText="altText" :photoHeader="photoHeader" :photoCommentary="photoCommentary" :previewCommentary="previewCommentary"/> -->
         <!-- <PhotoItem :imagePath=photo1 alt=""/> -->
         <!-- <PhotoItem :imagePath="`@/assets/DrawingView/31-05-23, Pixiv Drawing of the Day - Candy (Turkish Delight) - Final (less busy).png`" alt=""/> -->
-        <img :imagePath="`@/assets/DrawingView/Copy of a.png`" alt="">
+        <!-- <img :imagePath="`@/assets/DrawingView/Copy of a.png`" alt="">
         <img :imagePath="`@/assets/DrawingView/Copy of Beneath the Waves - d resized.png`" alt="">
         <img :imagePath="`@/assets/DrawingView/Copy of Circles and Squares.png`" alt="">
         <img :imagePath="`@/assets/DrawingView/Copy of cirlces and squares2.png`" alt="">
@@ -17,7 +18,7 @@
         <img :imagePath="`@/assets/DrawingView/result c (2)-lightened.png`" alt="">
         <img :imagePath="`@/assets/DrawingView/result d (1).png`" alt="">
         <img :imagePath="`@/assets/DrawingView/_nemotoda.png`" alt="">
-    </div>
+    </div> -->
 
 
 </template>

@@ -17,7 +17,7 @@ h3{
 
 <template>
     <p style="background-color: crimson; z-index: 10; width: 700px;">This page is a work in progress - still need to make the photo holder components create themselves dynamically, then integrate a database system then move the images to an image serving api backend</p>
-    <div id="container">
+    <!-- <div id="container">
         <header>
             <myHeader :mainHeader=mainHeader :subHeader=subHeader />
         </header>
@@ -32,7 +32,7 @@ h3{
         <footer>
             <MyFooter specificPageTechnologies="and MongoDB (eventually)" />
         </footer>
-    </div>
+    </div> -->
 </template>
 
 <script setup>
