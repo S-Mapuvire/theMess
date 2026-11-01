@@ -11,7 +11,7 @@ import CanvasItem from '@/components/CanvasItem.vue'
 import MyHeader from '@/components/MyHeader.vue'
 
 const mainHeader = "Welcome to the Portfolio Site of S.Mapuvire!"; 
-const subHeader = "Some code, some drawings, and some photos, with a decent description of my half-decent skills, all wrapped in stylish and functional web design!";
+const subHeader = "A total rework in progress!";
 
 window.addEventListener('resize', (e)=>{
     refresh();
@@ -36,19 +36,19 @@ const refresh = () => window.location.reload();
         <nav id="links-container">
           <ul>
             <li class="link-box" id="photos">
-              <RouterLink class="link" to="/photos">Photos</RouterLink>
+              <RouterLink class="link" to="">TBD</RouterLink>
             </li>
             <li class="link-box" id="code">
-              <RouterLink class="link" to="/code">Code</RouterLink>
+              <RouterLink class="link" to="">TBD</RouterLink>
             </li>
             <!-- <li class="link-box" id="cooking">
               <a class="link" href="Cooking.html">Cooking</a>
             </li> -->
             <li class="link-box" id="drawing">
-              <RouterLink class="link" to="/drawings">Drawings</RouterLink>
+              <RouterLink class="link" to="">TBD</RouterLink>
             </li>
             <li class="link-box" id="resume">
-              <RouterLink class="link" to="/resume">Resume</RouterLink>
+              <RouterLink class="link" to="/projects">Projects</RouterLink>
             </li>
           </ul>
         </nav>
