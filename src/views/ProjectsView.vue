@@ -27,7 +27,11 @@
                 <h3>Things I Programmed</h3>
                 <h4>Subtitle</h4>
                 <ul>
-                    <li></li>
+                    <li>
+                        <RouterLink to="/code-examples/CalculatorView">
+                            <p>State-based Scientific Calculator</p>
+                        </RouterLink>
+                    </li>
                     <li></li>
                     <li></li>
                     <li></li>
