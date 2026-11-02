@@ -7,6 +7,23 @@
         </header>
         <main>
             <section>
+                <h3>Stuff I've Programmed</h3>
+                <h4>A collection of neat stuff I've made over the years.</h4>
+                <ul>
+                    <li>
+                        <RouterLink to="/code-examples/CalculatorView">
+                            State-based Scientific Calculator - incomplete
+                        </RouterLink>
+                        <p>
+                            Moreso an explaininer on applying State Pattern to programs about manipulating a core centre of information (like a video stream, or a numeric value) using varying functions to alter it's result.
+                        </p>
+                    </li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </section>
+            <section>
                 <h3>Game Dev</h3>
                 <h4>I think about video games a bit - one day it'll reflect in this space...</h4>
                 <ul>
@@ -20,21 +37,6 @@
                     <li>
                         <a href="https://maxedev.itch.io/oh-no-i-fell-into-hell-and-now-im-bowling-against-demon-pins">Oh No!!! I Fell Into Hell and Now I'm Bowling Against Demon Pins!!!</a>
                     </li>
-                </ul>
-            </section>
-
-            <section>
-                <h3>Things I Programmed</h3>
-                <h4>Subtitle</h4>
-                <ul>
-                    <li>
-                        <RouterLink to="/code-examples/CalculatorView">
-                            <p>State-based Scientific Calculator</p>
-                        </RouterLink>
-                    </li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
                 </ul>
             </section>
             <section>
