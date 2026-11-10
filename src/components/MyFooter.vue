@@ -15,11 +15,11 @@
     <div id="footer-link-area">
       <p id="footer-header">My Other Accounts</p>
       <ul id="footer-links">    
-        <li><a href="https://flickr.com/photos/200206300@N03/" class="footer-link">Flickr</a></li>
         <li><a href="mailto:smapuvire@proton.me" class="footer-link">Email Address</a></li>
         <li><a href="https://github.com/S-Mapuvire" class="footer-link">Github</a></li>
-        <li><a href="https://nothingheretosee79.wordpress.com/" class="footer-link">WordPress - Currently Blank</a></li>
-        <li><a href="https://yumnothingsoup.neocities.org/" class="footer-link">Neocities Scrapbook - Just a home page at the moment!</a></li>
+        <li><a href="https://github.com/yumNothingSoup" class="footer-link">Other Github (used for game jams)</a></li>
+        <li><a href="https://yumnothingsoup.neocities.org/" class="footer-link">Neocities Scrapbook - Another work in progress!</a></li>
+        <li><a href="https://soupbook.nekoweb.org/" class="footer-link">Nekoweb - Collection of neat things I find</a></li>
       </ul>
     </div>
     <hr>
