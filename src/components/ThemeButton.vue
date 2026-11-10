@@ -120,14 +120,14 @@ $pinkFactory: #f7daf8;
     border-radius: 50%;
     
     top: calc(1rem);
-    left: calc(18rem);
+    left: calc(30vw);
     height: calc(4rem * 0.4);
     width: calc(4rem * 0.4);
 
     transform: translate(0);
 }
 .switch-toggle-checked{
-    transform: translateX(75rem) rotate(180deg);
+    transform: translateX(40vw) rotate(180deg);
 }
 .darkTheme span:nth-of-type(1), .lightTheme span:nth-of-type(2){
     color: rgba(102, 97, 97, 0.356);
@@ -144,12 +144,14 @@ $pinkFactory: #f7daf8;
         padding: 0.7rem;
     }
 }
+// figure out how to make another rule for smallest size so this rule can go there
 @media (width < 800px){
     .switch-toggle{
         top: calc(0.5rem);
+        left: calc(50vw);
     }
     .switch-toggle-checked{
-        transform: translateX(2rem) rotate(180deg);
+        transform: translateX(-15vw) rotate(180deg);
     }
     .switch-label{
         padding: 0.5rem;
