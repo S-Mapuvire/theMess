@@ -47,7 +47,7 @@ const refresh = () => window.location.reload();
             <li class="link-box" id="drawing">
               <RouterLink class="link" to="">TBD</RouterLink>
             </li>
-            <li class="link-box" id="resume">
+            <li class="link-box" id="projects">
               <RouterLink class="link" to="/projects">Projects</RouterLink>
             </li>
           </ul>
@@ -185,12 +185,12 @@ main {
 #drawing {
     position: relative;
     left: 35vw;
-    top: 30vh; 
+    top: 20vh; 
 }
-#resume {
+#projects {
     position: relative;
     left: 85vw;
-    top: 25vh;
+    top: 10vh;
 }
 /* ----------------------------------------------------------- */
 // make mobile friendly
@@ -199,35 +199,41 @@ main {
 
 @media (width < 800px) and (height < 700px){
   // add flex support
-  .darkTheme .link{border-radius: 5rem;}
-  .link-box{width:7rem;
-  }
+  
+  .darkTheme .link { border-radius: 5rem; }
+  
+  .link-box { width:7rem; }
+  
   #photos {
     left: 10vw;
     top: 40vh;
   }
-  #code{
+  #code {
       left: 25vw;
-      bottom: 20vh;
+      bottom: 10vh;
   }
   #drawing {
       left: 50vw;
       top: -20vh; 
   }
-  #resume {
+  #projects {
       left: 5vw;
       top: -47vh;
   }
 }
 
 @media (width < 800px){
-  header{ padding: 0 1rem; }
-  h1, h2{
+  
+  header { padding: 0 1rem; }
+  
+  h1, h2 {
     padding: 0;
     text-align: center;
   }
-  h2{ padding-left: 10px; }
-  #resume{ left:80vw; }
+  
+  h2 { padding-left: 10px; }
+
+  #projects { left:80vw; }
 }
 
 </style>
