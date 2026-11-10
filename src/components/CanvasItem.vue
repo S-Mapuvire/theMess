@@ -108,8 +108,8 @@ const canvas = (sketch)=>{
                 drawing.getBoundingClientRect().top + drawing.getBoundingClientRect().height/2
             ],
             [
-                resume.getBoundingClientRect().left + resume.getBoundingClientRect().width/2, 
-                resume.getBoundingClientRect().top + resume.getBoundingClientRect().height/2
+                projects.getBoundingClientRect().left + projects.getBoundingClientRect().width/2, 
+                projects.getBoundingClientRect().top + projects.getBoundingClientRect().height/2
             ]
         ];
 
