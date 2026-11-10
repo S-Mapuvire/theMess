@@ -15,6 +15,9 @@ import NavBar from '@/components/NavBar.vue';
 
 <style lang="scss">
 *{cursor: none;}
+html {
+  margin: 0.5rem;
+}
 h1{
   font-size: 2.2rem;
   font-weight: 800;
