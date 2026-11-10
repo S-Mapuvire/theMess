@@ -1,16 +1,12 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import ThemeButton from '@/components/ThemeButton.vue'
+import NavBar from '@/components/NavBar.vue';
 </script>
 
 <template>
-  <!-- <header>
+  <NavBar />
 
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </header> -->
   <ThemeButton />
 
   <RouterView />
@@ -29,7 +25,6 @@ h2{
 h3{
   font-size: 1.2rem;
   font-weight: 500;
-
 }
 
 @media (width < 1000px){
