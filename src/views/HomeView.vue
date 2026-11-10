@@ -117,7 +117,6 @@ const refresh = () => window.location.reload();
 }
 
 /* ----------------------------------------------------------- */
-html{cursor: none;}
 #container{
   height: 90%;
   width: 100%;
@@ -140,6 +139,7 @@ h1, h2{
 main {
     height: 70vh;
     width: 100%;
+    cursor: none;
 }
 /* ----------------------------------------------------------- */
 #links-container{
